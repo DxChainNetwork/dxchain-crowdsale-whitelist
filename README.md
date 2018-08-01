@@ -11,11 +11,13 @@ DxChain team will release the lottery code, whiltelist data and random generator
 The seed will be the hash value of first Bitcoin block after 08/01/2018 12:00PM PST(08/01/2018 7PM UTC).  Check details at [https://www.blockchain.com/explorer](https://www.blockchain.com/explorer)
 
 ## Code
-Will be pushed in this repo
+```
+lottery.py
+```
 
 
 ## Data
-Will be pushed in this repo
+please check out 'user_list.csv' for details
 
 ## Winners list
 Will be pushed in this repo
